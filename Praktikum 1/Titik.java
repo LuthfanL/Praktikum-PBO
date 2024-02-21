@@ -1,5 +1,10 @@
-//Nama : Muhammad Luthfan Lazuardi 
-//NIM : 24060122120010
+/**
+ * File      : Titik.java		21/02/24
+ * Nama penulis   : Muhammad Luthfan Lazuardi
+ * NIM               : 24060122120010
+ * Deskripsi :  berisi class dari main dari Titik
+ * 
+ */
 
 
 class Titik
